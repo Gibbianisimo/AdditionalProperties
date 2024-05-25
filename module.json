@@ -1,0 +1,12 @@
+{
+"name": "additionalproperties", 
+"title": "Additional Properties",
+"description": "Adds properties",
+"version": "0.1", 
+"author": "Gibbian", 
+"systems": ["dnd5e"], 
+"styles": [], 
+"scripts": ["additionalProperties.js"], 
+"manifest": "https://raw.githubusercontent.com/Gibbianisimo/AdditionalProperties/main/module.json", 
+"download": "https://github.com/Gibbianisimo/AdditionalProperties/archive/main.zip"
+}
